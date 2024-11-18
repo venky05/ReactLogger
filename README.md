@@ -83,7 +83,3 @@ my-react-app/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` explains the steps clearly for using the custom logger, setting up the environment, and running the code in your React app. Let me know if you'd like to adjust or add more details!
